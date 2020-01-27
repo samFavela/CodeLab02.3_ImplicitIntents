@@ -1,0 +1,2 @@
+rootProject.name='CodeLab02.3_ImplicitIntents'
+include ':app'
